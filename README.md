@@ -59,3 +59,9 @@ Building this taught me that AI doesn't have to be incredibly complex to be usef
 
 **Author:** Akkshat Goel (25BAI11134)
 **Course:** Fundamentals of AI and ML
+
+![p3](https://github.com/user-attachments/assets/8576c00e-94b6-4523-bc2e-b16e18b8b9ea)
+![p2](https://github.com/user-attachments/assets/f8dd76e1-b8b6-4a0a-85db-b3a837805d6e)
+![p1](https://github.com/user-attachments/assets/2b931ffd-25b2-42af-9be4-e5cfa47d5db1)
+![p4](https://github.com/user-attachments/assets/04cbc327-1242-4ce8-a39d-f0af4b15193b)
+
