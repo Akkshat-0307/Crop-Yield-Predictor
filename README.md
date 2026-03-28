@@ -54,9 +54,6 @@ y = mx + c
 4.  **Get a Prediction:** Enter any rainfall value (e.g., `750`) when prompted to see the estimated yield!
 
 
-## What I Learned
-Building this taught me that AI doesn't have to be incredibly complex to be useful. By applying basic **Bayesian statistics** and **Linear Regression**, we can solve real-world problems observed in our daily lives. I also learned the importance of **Data Representation**—if the CSV isn't formatted correctly, the model won't work!
-
 **Author:** Akkshat Goel (25BAI11134)
 **Course:** Fundamentals of AI and ML
 
