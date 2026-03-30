@@ -40,17 +40,17 @@ y = mx + c
 
 ##  How to Run It
 1.  **Clone the Repo:**
-    ```bash
+    
 https://github.com/Akkshat-0307/Crop-Yield-Predictor.git
-    ```
+    
 2.  **Install Dependencies:**
-    ```bash
+    
     pip install pandas matplotlib scikit-learn
-    ```
+    
 3.  **Launch the Predictor:**
-    ```bash
+    
     python predictor.py
-    ```
+    
 4.  **Get a Prediction:** Enter any rainfall value (e.g., `750`) when prompted to see the estimated yield!
 
 
