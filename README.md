@@ -41,7 +41,7 @@ y = mx + c
 ##  How to Run It
 1.  **Clone the Repo:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Crop-Yield-Predictor.git](https://github.com/YOUR_USERNAME/Crop-Yield-Predictor.git)
+https://github.com/Akkshat-0307/Crop-Yield-Predictor.git
     ```
 2.  **Install Dependencies:**
     ```bash
